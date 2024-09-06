@@ -3,7 +3,7 @@
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 Hi!
 
-I am currently a PhD student at School of College of Computer Science and Engineering, Southeast University, Nanjing, China, supervised by Prof. Peng Wang. Before that, I received my B.Eng. degree from Dalian University of Technology.
+I am currently a PhD student at School of College of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn/), Nanjing, China, supervised by Prof. [Peng Wang](https://cse.seu.edu.cn/2023/1024/c23024a469544/page.htm). Before that, I received my B.Eng. degree from (Dalian University of Technology)[https://www.dlut.edu.cn/].
 
 Find me on Google Scholar, and Github!
 
