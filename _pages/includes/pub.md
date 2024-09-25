@@ -1,4 +1,4 @@
-# Publications
+# 📝 Publications
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
