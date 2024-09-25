@@ -13,18 +13,18 @@
   **Jiajun Liu**, Peng Wang, Ziyu Shang, Chenxiao Wu.
 - [ACL 2024] **Boosting Textural NER with Synthetic Image and Instructive Alignment.** [[paper](https://aclanthology.org/2024.findings-acl.74.pdf)] \\
   Jiahao Wang, Wenjun Ke, Peng Wang, Hang Zhang, Dong Nie, **Jiajun Liu**, Guozheng Li, Ziyu Shang
-- [IJCAI 2024] **Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification.**[[paper](https://www.ijcai.org/proceedings/2024/0698.pdf)]
+- [IJCAI 2024] **Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification.**[[paper](https://www.ijcai.org/proceedings/2024/0698.pdf)] \\
   Ke Ji, Peng Wang, Wenjun Ke, Guozheng Li, **Jiajun Liu**, Jingsheng Gao, Ziyu Shang
-- [IJCAI 2024] **Meta In-Context Learning Makes Large Language Models Better Zero and Few-Shot Relation Extractors.** [[paper](https://www.ijcai.org/proceedings/2024/0702.pdf)]
+- [IJCAI 2024] **Meta In-Context Learning Makes Large Language Models Better Zero and Few-Shot Relation Extractors.** [[paper](https://www.ijcai.org/proceedings/2024/0702.pdf)] \\
   Guozheng Li, Peng Wang, **Jiajun Liu**, Yikai Guo, Ke Ji, Ziyu Shang, Zijie Xu
-- [IJCAI 2024] **Recall, Retrieve and Reason: Towards Better In-Context Relation Extraction.** [[paper](https://www.ijcai.org/proceedings/2024/0704.pdf)]
+- [IJCAI 2024] **Recall, Retrieve and Reason: Towards Better In-Context Relation Extraction.** [[paper](https://www.ijcai.org/proceedings/2024/0704.pdf)] \\
   Guozheng Li, Peng Wang, Wenjun Ke, Yikai Guo, Ke Ji, Ziyu Shang, **Jiajun Liu**, Zijie Xu
-- [IJCAI 2024] **Empirical Analysis of Dialogue Relation Extraction with Large Language Model** [[paper](https://www.ijcai.org/proceedings/2024/0703.pdf)]
+- [IJCAI 2024] **Empirical Analysis of Dialogue Relation Extraction with Large Language Model** [[paper](https://www.ijcai.org/proceedings/2024/0703.pdf)] \\
   Guozheng Li, Zijie Xu, Ziyu Shang, **Jiajun Liu**, Ke Ji, Yikai Guo
-- [IJCAI 2024] **Learning Multi-Granularity and Adaptive Representation for Knowledge Graph Reasoning** [[paper](https://www.ijcai.org/proceedings/2024/0258.pdf)]
+- [IJCAI 2024] **Learning Multi-Granularity and Adaptive Representation for Knowledge Graph Reasoning** [[paper](https://www.ijcai.org/proceedings/2024/0258.pdf)] \\
   Ziyu Shang, Peng Wang, Wenjun Ke, **Jiajun Liu**, Hailang Huang, Guozheng Li, Chenxiao Wu, Jianghan Liu, Xiye Chen, Yining Li
-- [IJCAI 2024] **Incorporating Schema-Aware Description into Document-Level Event Extraction** [[paper](https://www.ijcai.org/proceedings/2024/0729.pdf)]
+- [IJCAI 2024] **Incorporating Schema-Aware Description into Document-Level Event Extraction** [[paper](https://www.ijcai.org/proceedings/2024/0729.pdf)] \\
   Zijie Xu, Peng Wang, Wenjun Ke, Guozheng Li, **Jiajun Liu**, Ke Ji, Xiye Chen, Chenxiao Wu
-- [IJCAI 2024] **Ontofact: Unveiling fantastic fact-skeleton of llms via ontology-driven reinforcement learning** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29859)]
+- [IJCAI 2024] **Ontofact: Unveiling fantastic fact-skeleton of llms via ontology-driven reinforcement learning** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29859)] \\
   Ziyu Shang, Wenjun Ke, Nanna Xiu, Peng Wang, **Jiajun Liu**, Yanhui Li, Zhizhao Luo, Ke Ji
 </div>
