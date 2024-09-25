@@ -23,8 +23,8 @@
   Guozheng Li, Zijie Xu, Ziyu Shang, **Jiajun Liu**, Ke Ji, Yikai Guo
 - [IJCAI 2024] **Learning Multi-Granularity and Adaptive Representation for Knowledge Graph Reasoning** [[paper](https://www.ijcai.org/proceedings/2024/0258.pdf)] \\
   Ziyu Shang, Peng Wang, Wenjun Ke, **Jiajun Liu**, Hailang Huang, Guozheng Li, Chenxiao Wu, Jianghan Liu, Xiye Chen, Yining Li
-- [IJCAI 2024] **Incorporating Schema-Aware Description into Document-Level Event Extraction** [[paper](https://www.ijcai.org/proceedings/2024/0729.pdf)] \\
+- [IJCAI 2024] **Incorporating Schema-Aware Description into Document-Level Event Extraction** [[paper](https://www.ijcai.org/proceedings/2024/0729.pdf)][[code](https://github.com/TheoryRhapsody/SEELE)] \\
   Zijie Xu, Peng Wang, Wenjun Ke, Guozheng Li, **Jiajun Liu**, Ke Ji, Xiye Chen, Chenxiao Wu
-- [IJCAI 2024] **Ontofact: Unveiling fantastic fact-skeleton of llms via ontology-driven reinforcement learning** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29859)] \\
+- [IJCAI 2024] **Ontofact: Unveiling fantastic fact-skeleton of llms via ontology-driven reinforcement learning** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29859)][[code](https://github.com/seukgcode/OntoFact)] \\
   Ziyu Shang, Wenjun Ke, Nanna Xiu, Peng Wang, **Jiajun Liu**, Yanhui Li, Zhizhao Luo, Ke Ji
 </div>
