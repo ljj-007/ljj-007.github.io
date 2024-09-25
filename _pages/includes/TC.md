@@ -1,4 +1,4 @@
-# Technique Competition
+# 💻 Technique Competition
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
