@@ -11,6 +11,8 @@
 - [AAAI 2023] **IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings.** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25570)]
   [[code](https://github.com/seukgcode/IterDE)] \\
   **Jiajun Liu**, Peng Wang, Ziyu Shang, Chenxiao Wu.
+- [NeurIPS 2024] **Unveiling LoRA Intrinsic Ranks via Salience Analysis.** \\
+  Wenjun Ke, Jiahao Wang, Peng Wang, **Jiajun Liu**, Dong Nie, Guozheng Li, Yining Li.
 - [ACL 2024] **Boosting Textural NER with Synthetic Image and Instructive Alignment.** [[paper](https://aclanthology.org/2024.findings-acl.74.pdf)] \\
   Jiahao Wang, Wenjun Ke, Peng Wang, Hang Zhang, Dong Nie, **Jiajun Liu**, Guozheng Li, Ziyu Shang
 - [IJCAI 2024] **Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification.**[[paper](https://www.ijcai.org/proceedings/2024/0698.pdf)] \\
