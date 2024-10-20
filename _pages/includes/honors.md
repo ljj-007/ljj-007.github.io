@@ -2,7 +2,9 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- National Scholarship, *2023.10*
+- Scholarship for New PhD Students, *2024.10*
+
+- National Scholarship, *2023.12*
 
 - Academic Scholarship of Southeast University, *2023.10*
 
