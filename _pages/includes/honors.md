@@ -16,8 +16,6 @@
 
 - Huawei Scholarship, *2020.04*
 
-- Spiritual Civilization Scholarship of Dalian University of Technology, *2018-2019*
-
 - Merit Student of Dalian University of Technology, *2018-2019*
 
 - First-Class Outstanding Student Scholarship of Dalian University of Technology, *2018.10*
