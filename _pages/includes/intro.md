@@ -21,7 +21,7 @@ Email: jiajliu@seu.edu.cn
 
 </div>
 
-# 📚 Research
+# 📚 Research {#research}
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 My current research interests lie in knowledge disitllation (KD) large language models (LLMs) and knowledge graph (KGs). 
 Currently, I am focused on **Knowledge Distillation and Model Compression for LLMs**.
