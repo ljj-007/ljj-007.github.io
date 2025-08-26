@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards {#honors-and-awards}
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
