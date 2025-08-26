@@ -11,7 +11,7 @@ Before that, I finished my M.S. career of Computer Technology at [Southeast Univ
 I obtained my B.S. degree of Computer Science and Technology from [Dalian University of Technology](https://cse.seu.edu.cn/) in 2021. 
 
 
-Find me on Google Scholar ![Google Scholar Citations](https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ljj-007/ljj-007.github.io@main/citations.json&cacheSeconds=3600), and Github!
+Find me on Google Scholar ![Google Scholar Citations](https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/ljj-007/ljj-007.github.io@main/citations.json&cacheSeconds=3600&t=1), and Github!
 
 Email: jiajliu@seu.edu.cn
 
