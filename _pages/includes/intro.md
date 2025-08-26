@@ -10,7 +10,8 @@ I am a member of the KGCODE Group, advised by Prof. [Peng Wang](https://cse.seu.
 Before that, I finished my M.S. career of Computer Technology at [Southeast University](https://cse.seu.edu.cn/) in 2023. 
 I obtained my B.S. degree of Computer Science and Technology from [Dalian University of Technology](https://cse.seu.edu.cn/) in 2021. 
 
-Find me on Google Scholar [![Scholar](https://img.shields.io/badge/Citations-1234-blue)](https://scholar.google.com/citations?user=kO35itkAAAAJ), and Github!
+
+Find me on Google Scholar ![Google Scholar Citations](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ljj-007/ljj-007.github.io/main/citations.json), and Github!
 
 Email: jiajliu@seu.edu.cn
 
