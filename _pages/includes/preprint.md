@@ -1,0 +1,4 @@
+# 📝 Publications {#publications}
+
+- [Arxiv 2025] **Unlearning of Knowledge Graph Embedding via Preference Optimization.**  [[paper](https://arxiv.org/abs/2507.20566)] \\
+  **Jiajun Liu**, Wenjun Ke, Peng Wang, Yao He, Ziyu Shang, Guozheng Li, Zijie Xu, Ke Ji.
