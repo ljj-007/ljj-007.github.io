@@ -9,9 +9,6 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Featured Publications"
-    url: "/#featured_publications"
-
   - title: "Publications"
     url: "/#publications"
 
