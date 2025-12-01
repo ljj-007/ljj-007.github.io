@@ -2,6 +2,9 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+- [AAAI 2026] **Balanced Knowledge Distillation for Large Language Models with Mix-of-Experts.** [paper]
+  [[code](https://github.com/ljj-007/moedistill)] \\
+  **Jiajun Liu**, Yao He, Wenjun Ke, Peng Wang, et al.
 - [IJCAI 2024] **Fast and Continual Knowledge Graph Embedding via Incremental LoRA.** [[paper](https://arxiv.org/pdf/2407.05705)]
   [[code](https://github.com/seukgcode/FastKGE)] \\
   **Jiajun Liu**, Wenjun Ke, Peng Wang, Ziyu Shang, et al.
