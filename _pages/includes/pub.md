@@ -2,6 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+## First-Author Papers
 - [AAAI 2026] **Balanced Knowledge Distillation for Large Language Models with Mix-of-Experts.** [paper]
   [[code](https://github.com/ljj-007/moedistill)] \\
   **Jiajun Liu**, Yao He, Wenjun Ke, Peng Wang, et al.
@@ -14,6 +15,8 @@
 - [AAAI 2023] **IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings.** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25570)]
   [[code](https://github.com/seukgcode/IterDE)] \\
   **Jiajun Liu**, Peng Wang, Ziyu Shang, Chenxiao Wu.
+
+## Co-Author Papers
 - [IJCAI 2025] **Can Large Models Teach Student Models to Solve Mathematical Problems Like Human Beings? A Reasoning Distillation Method via Multi-LoRA Interaction.** [[paper](https://arxiv.org/abs/2508.13037)]
   [[code](https://github.com/Xinhe-Li/LoRID)] \\
   Xinhe Li, **Jiajun Liu**, Peng Wang.
