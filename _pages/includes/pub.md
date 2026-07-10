@@ -19,6 +19,16 @@
   **Jiajun Liu**, Peng Wang, Ziyu Shang, Chenxiao Wu.
 
 ## Co-Author Papers
+
+
+- [ACL 2026] **Exploring Layer Activation Dynamic of CoT via Knowledge Probe.** [[paper](https://aclanthology.org/2026.acl-long.542/)] \\
+  Chuanxin Zhang, **Jiajun Liu**, Yao He, Wenjun Ke, Peng Wang, Yankun Le, Sirui Liu, Zhaoyu Yang.
+- [ACL 2026] **Capability Decomposition for Unified Information Extraction via Hierarchical Mixture-of-Experts.** [[paper](https://aclanthology.org/2026.acl-long.561/)] \\
+  Jing Zhou, Peng Wang, Wenjun Ke, **Jiajun Liu**, Yao He.
+- [ACL 2026] **On the Role of Discriminative Models in Generative Relation Extraction.** [[paper](https://aclanthology.org/2026.acl-long.2093/)] \\
+  Guozheng Li, Peng Wang, Zijie Xu, Jing Zhou, **Jiajun Liu**, Ziyu Shang.
+- [ACL 2026 Findings] **From Outcome to Process: Optimizing MoE Load Balancing with MCTS.** [[paper](https://aclanthology.org/2026.findings-acl.1440/)] \\
+  Wenjun Ke, Hengyuan Xu, Ziyu Shang, Yao He, Jiahao Wang, Zijie Xu, Peng Wang, Yuhang Lou, **Jiajun Liu**.
 - [IJCAI 2025] **Can Large Models Teach Student Models to Solve Mathematical Problems Like Human Beings? A Reasoning Distillation Method via Multi-LoRA Interaction.** [[paper](https://arxiv.org/abs/2508.13037)]
   [[code](https://github.com/Xinhe-Li/LoRID)] \\
   Xinhe Li, **Jiajun Liu**, Peng Wang.
