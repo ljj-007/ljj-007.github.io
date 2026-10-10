@@ -3,6 +3,8 @@
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 ## First-Author Papers
+- [NeurIPS 2026] **Towards Precise Knowledge Distillation for Large Language Models via Knowledge Probing.** [paper][[code](https://github.com/ljj-007/KPD)] \\
+  **Jiajun Liu**, Yao He, Wenjun Ke, Peng Wang, et al.
 - [WWW 2026, Oral] **Unlearning of Knowledge Graph Embedding via Preference Optimization.**  [[paper](https://dl.acm.org/doi/10.1145/3774904.3792397)] [[code](https://github.com/ljj-007/GraphDPO)] \\
   **Jiajun Liu**, Wenjun Ke, Peng Wang, Yao He, Ziyu Shang, Guozheng Li, Zijie Xu, Ke Ji.
 - [AAAI 2026] **Balanced Knowledge Distillation for Large Language Models with Mix-of-Experts.** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39543)]
